@@ -1,0 +1,44 @@
+[
+  {
+    "category_name": "Category",
+    "open": true,
+    "category_array": [
+      "Accesories",
+      "Bags",
+      "Denim",
+      "Hoodies & Sweatshirs",
+      "Jackets & Coats",
+      "Pants",
+      "Polos",
+      "Shirts",
+      "Shoes",
+      "Shorts",
+      "T-Shirts",
+      "Tanks"
+    ]
+  },
+  {
+    "category_name": "Brand",
+    "open": false,
+    "category_array": [
+      "Armani",
+      "Calvin Klein",
+      "Dolche & Gabbana",
+      "Levi's®",
+      "Mexx",
+      "Puma",
+      "Temberland"
+    ]
+  },
+  {
+    "category_name": "Designer",
+    "open": false,
+    "category_array": [
+      "Stefano Pilatti",
+      "Fibi Filo",
+      "Vika Gazinskaya",
+      "Tom Braun",
+      "Stella McCartny"
+    ]
+  }
+]

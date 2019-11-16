@@ -1,0 +1,16 @@
+[
+  {
+    "id_product": 101,
+    "product_name": "Man T-shirt",
+    "price": 45,
+    "quantity": 1,
+    "img": "product-1.jpg"
+  },
+  {
+    "id_product": 102,
+    "product_name": "Woman T-shirt",
+    "price": 50,
+    "quantity": 1,
+    "img": "product-2.jpg"
+  }
+]
