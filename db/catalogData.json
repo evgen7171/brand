@@ -1,0 +1,80 @@
+[
+  {
+    "id_product": 101,
+    "product_name": "Man t-shirt (print)",
+    "price": 45,
+    "img": "product-1.jpg"
+  },
+  {
+    "id_product": 102,
+    "product_name": "Woman blouse",
+    "price": 50,
+    "img": "product-2.jpg"
+  },
+  {
+    "id_product": 103,
+    "product_name": "Man jacket",
+    "price": 70,
+    "img": "product-3.jpg"
+  },
+  {
+    "id_product": 104,
+    "product_name": "Woman flower dress",
+    "price": 55,
+    "img": "product-4.jpg"
+  },
+  {
+    "id_product": 105,
+    "product_name": "Woman dress",
+    "price": 53,
+    "img": "product-5.jpg"
+  },
+  {
+    "id_product": 106,
+    "product_name": "Woman suit",
+    "price": 100,
+    "img": "product-6.jpg"
+  },
+  {
+    "id_product": 107,
+    "product_name": "Man pants",
+    "price": 48,
+    "img": "product-7.jpg"
+  },
+  {
+    "id_product": 108,
+    "product_name": "Man pullover",
+    "price": 60,
+    "img": "product-8.jpg"
+  },
+  {
+    "id_product": 109,
+    "product_name": "Man windbracker",
+    "price": 60,
+    "img": "product-9.jpg"
+  },
+  {
+    "id_product": 110,
+    "product_name": "Man jacket",
+    "price": 60,
+    "img": "product-10.jpg"
+  },
+  {
+    "id_product": 111,
+    "product_name": "Man t-shirt (gray)",
+    "price": 60,
+    "img": "product-11.jpg"
+  },
+  {
+    "id_product": 112,
+    "product_name": "Man cape",
+    "price": 60,
+    "img": "product-12.jpg"
+  },
+  {
+    "id_product": 113,
+    "product_name": "Man t-shirt (blue)",
+    "price": 60,
+    "img": "product-13.jpg"
+  }
+]

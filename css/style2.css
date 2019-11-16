@@ -1,0 +1,37 @@
+.cart__count {
+    background-color: #f16d7f;
+    color: #fff;
+    display: inline-block;
+    height: 27px;
+    width: 28px;
+    text-align: center;
+    line-height: 27px;
+    border-radius: 13.5px;
+    position: absolute;
+    margin: -13px 0 0 20px;
+}
+.cart__count:hover{
+    cursor: pointer;
+}
+
+.sorting__select input[type="range"]{
+    -webkit-appearance: none;
+    -moz-apperance: none;
+    border-radius: 6px;
+    height: 6px;
+    width: 100%;
+    background-color: #adadad;
+    box-shadow: inset 1px 1px 1px #000;
+    margin-bottom: 15px;
+}
+
+.sorting__select input[type='range']::-webkit-slider-thumb {
+    -webkit-appearance: none !important;
+    background-color: #E9E9E9;
+    border: 1px solid #CECECE;
+    height: 15px;
+    width: 15px;
+    border-radius: 15px;
+    box-shadow: 0 0 1px 1px black;
+    background-image: linear-gradient(to bottom, #fff, #c5c5c5);
+}
